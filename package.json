@@ -1,0 +1,16 @@
+{
+  "name": "atcoder-ts-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npx ts-node index.ts"
+  },
+  "author": "kobataku <tk_musik@yahoo.co.jp> (https://github.com/kobatakuJP)",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^13.5.0",
+    "ts-node": "^8.6.2",
+    "typescript": "^2.1.6"
+  }
+}
